@@ -3,6 +3,7 @@ import pandas as pd
 import ta
 
 
+#add this
 
 def get_stock_data(symbol, api_key):
     """
