@@ -4,6 +4,7 @@ import ta
 
 
 #add this
+#how to to pull
 
 def get_stock_data(symbol, api_key):
     """
