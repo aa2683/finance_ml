@@ -5,6 +5,7 @@ import ta
 
 #add this
 #how to to pull
+#how to pull from new branch
 
 def get_stock_data(symbol, api_key):
     """
